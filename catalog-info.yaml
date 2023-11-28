@@ -4,11 +4,11 @@ metadata:
   name: d2s-demo
   description: |
     This is a demo file for D2S demo.
-  # links:
-  #   - title: Website
-  #     url: http://backstage.io
-  #   - title: Documentation
-  #     url: https://backstage.io/docs
+  links:
+    - title: Website
+      url: https://d2s.dev.service.mod.gov.uk/
+    # - title: Documentation
+    #   url: https://backstage.io/docs
   #   - title: Storybook
   #     url: https://backstage.io/storybook
   #   - title: Discord Chat
