@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: d2s-python-app-template
+  name: 29-11-23-d2s-python-app-template
   title: Create D2S Python App Template
   description: Create a new Python Project
   tags:
