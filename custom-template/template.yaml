@@ -1,7 +1,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: create-react-app-template
+  name: create-python-app-template
   title: Create D2S Python App Template
   description: Create a new Python Project
   tags:
@@ -9,7 +9,7 @@ metadata:
     - D2S
 spec:
   owner: web@example.com
-  type: service
+  type: website
   parameters:
     - title: Provide some simple information
       required:
